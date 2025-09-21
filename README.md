@@ -1,7 +1,5 @@
 # Hello there 👋
 
-![visitors](https://github.com/tariq12009k-boop)
-
 
 ## 🗂️ Highlight Projects
 
