@@ -1,7 +1,7 @@
-<img src="imgs/mario.gif" alt="mario">
+<img src="mario.gif" alt="mario">
 
-<h1> Welcome to my project <img src="imgs/hello.gif" alt="img hand"></h1>
-
+<h1> Welcome to my project <img src="hello.gif" alt="img hand"></h1>
+## Who am I?
 
 ## 🗂️ Highlight Projects
 <a href="https://tariq12009k-boop.github.io/Quran-and-audio/">
